@@ -160,4 +160,3 @@ Você concluiu com sucesso Atividade Publicação de Site Estático com Amazon S
 
 ---
 
-### 👨‍🏫 Criado por [Heberton Geovane](https://www.linkedin.com/in/heberton-geovane/)
